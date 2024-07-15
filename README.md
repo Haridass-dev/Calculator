@@ -10,7 +10,7 @@ This project is a simple calculator implemented in Unity, designed to perform ba
 - Division
 
 ## Screenshots
-[Calculator UI](https://github.com/Haridass-dev/Calculator/blob/main/Assets/UI%20Image/Capture11.PNG)
+![Calculator UI](https://github.com/Haridass-dev/Calculator/blob/main/Assets/UI%20Image/Capture11.PNG)
 
 ## Installation
 1. Clone the repository:
