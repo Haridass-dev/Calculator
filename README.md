@@ -13,11 +13,8 @@ This project is a simple calculator implemented in Unity, designed to perform ba
 ![Calculator UI](https://github.com/Haridass-dev/Calculator/blob/main/Assets/UI%20Image/Capture11.PNG)
 
 ## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/unity-calculator.git
-   ```
-2. Open the project in Unity.
+1. Open this page in android phone [Link](https://github.com/Haridass-dev/Calculator/releases/tag/APK).
+2. Install and calculate.
 
 ## Usage
 - Launch the Unity project.
